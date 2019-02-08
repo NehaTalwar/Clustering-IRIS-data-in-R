@@ -9,7 +9,7 @@ I have used K-Means to divide the data in to 3 clusters and created a scatterplo
 It is an Unsupervised Machine Learning Algorithm.
 Essence of Clustering is grouping objects in a way that objects in same cluster are similar to each other than objects in different cluster.
 It is Mainly used in Exploratory Data Analysis.
-K-Means Clustering uses Centroid Based Clustering Algorithm and groups the data based on similar data points . In here i have clustered the Iris data both with R and Python to produce 3 clusters as the optimal clusters each time.
+K-Means Clustering uses Centroid Based Clustering Algorithm and groups the data based on similar data points . In here i have clustered the Iris data both with R and Python to produce 3 clusters as the optimal number of clusters each time for this particular dataset.
 
 
 
