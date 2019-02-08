@@ -1,5 +1,5 @@
 # Clustering-IRIS-data-using-R and python
-Clustering with the K-Means algorithm on IRIS data with R.
+Clustering with the K-Means algorithm on IRIS data with R and Python.
 
 Description
 
